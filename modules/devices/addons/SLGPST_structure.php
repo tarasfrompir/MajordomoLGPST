@@ -11,6 +11,7 @@ $this->device_types['LiveGPSTraker'] = array(
         'coordinates'=>array('DESCRIPTION'=>'Координаты расположения устройства'),
         'speed'=>array('DESCRIPTION'=>'Скорость'),
         'allproperties'=>array('DESCRIPTION'=>'Все свойства устройства'),
+        'address'=>array('DESCRIPTION'=>'Адрес местонахождения устройства'),
         //'d'=>array('DESCRIPTION'=>'Дата обновления статуса'),
         //'t'=>array('DESCRIPTION'=>'Время обновления статуса'),
         //'altitude'=>array('DESCRIPTION'=>'Высота'),
